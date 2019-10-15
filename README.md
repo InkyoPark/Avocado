@@ -15,4 +15,4 @@ Dataset
 4770 Extra Avocado(~10-15oz)
 
 Reference
-"https://www.youtube.com/watch?v=C_MOtffSues&t=10s" , "»§ÇüÀÇ °³¹ßµµ»ó±¹"
+"https://www.youtube.com/watch?v=C_MOtffSues&t=10s"
